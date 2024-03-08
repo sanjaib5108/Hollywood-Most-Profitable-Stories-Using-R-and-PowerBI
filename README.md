@@ -14,10 +14,10 @@ The purpose of this project is to analyze the Hollywood Movies for specific peri
 - Data Visualization
 
 # Technologies Used
-R Programming
-R STudio
-R Libraries - TydeVerse, ggplot2
-Microsoft PowerBI
+- R Programming
+- R STudio
+- R Libraries - TydeVerse, ggplot2
+- Microsoft PowerBI
 
 # Dataset
 Dataset has been imported from the Tableau Public for analysis purpose. 
